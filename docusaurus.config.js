@@ -115,4 +115,12 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = {
+  // ...
+  url: 'https://github.com/kaden-ziten/kaden-ziten.git',
+  baseUrl: '/kaden-ziten/',
+  projectName: 'kaden-ziten.github.io',
+  organizationName: 'kaden-ziten',
+  trailingSlash: false,
+  // ...
+};
