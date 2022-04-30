@@ -117,7 +117,7 @@ const config = {
 
 module.exports = {
   // ...
-  url: 'https://github.com/kaden-ziten/kaden-ziten.git',
+  url: 'https://kaden-ziten.github.io',
   baseUrl: '/kaden-ziten/',
   projectName: 'kaden-ziten.github.io',
   organizationName: 'kaden-ziten',
